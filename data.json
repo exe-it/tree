@@ -1,0 +1,82 @@
+[  
+	  {
+		"id":1,
+		"name":"Mieszko I",
+		"parent_id":null
+	  },
+	  {
+		"id":2,
+		"name":"Bolesław I Chrobry",
+		"parent_id":1
+	  },
+	  {
+		"id":3,
+		"name":"Bezprym",
+		"parent_id":2
+	  },
+	  {
+		"id":4,
+		"name":"Mieszko II Lambert",
+		"parent_id":2
+	  },
+	  
+	  {
+		"id":5,
+		"name":"Mieszko II Lambert",
+		"parent_id":4
+	  },
+	  
+	  {
+		"id":6,
+		"name":"Mieszko II Lambert",
+		"parent_id":4
+	  },
+	  
+	  {
+		"id":7,
+		"name":"Kazimierz I Odnowiciel",
+		"parent_id":6
+	  },
+	  
+	  {
+		"id":8,
+		"name":"Gertruda",
+		"parent_id":6
+	  },
+	  
+	  {
+		"id":9,
+		"name":"N. Córka",
+		"parent_id":6
+	  },
+	  
+	  {
+		"id":10,
+		"name":"Bolesław II Szczodry",
+		"parent_id":7
+	  },
+	  
+	  {
+		"id":11,
+		"name": "Władysław Herman",
+		"parent_id":7
+	  },
+	  
+	  {
+		"id":12,
+		"name":"Świętosława Swatawa",
+		"parent_id":7
+	  },
+	  
+	  {
+		"id":13,
+		"name":"Otto",
+		"parent_id":7
+	  },
+	  
+	  {
+		"id":14,
+		"name":"Otto",
+		"parent_id":9
+	  }
+]
